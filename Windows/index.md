@@ -2,7 +2,7 @@
 
 ## Accessing from Windows
 
-1. **Download Windows Client https://go.microsoft.com/fwlink/?linkid=2068602**
+1. **Download Windows Client[ https://go.microsoft.com/fwlink/?linkid=2068602](https://go.microsoft.com/fwlink/?linkid=2068602)**
 
 1. **Install Client once downloaded (RemoteDesktop\_1.2.xxx\_x64.msi)**
 1. **Click Next**
