@@ -3,9 +3,9 @@
 
 - [Windows Setup](Windows/)
 
-- [macOS Setup](macOS/Readme.md)
+- [macOS Setup](macOS/)
 
-- [Web Browser](Browser/Readme.md)
+- [Web Browser](Browser/)
 
 > [!IMPORTANT]
 > Access is only available Monday - Friday from 7:00 AM to 9:00 PM
