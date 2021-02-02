@@ -1,6 +1,6 @@
 # Accessing Union Windows Virtual Desktop
 
-## Accessing from Windows v2
+## Accessing from Windows
 
 1. **Download Windows Client[ https://go.microsoft.com/fwlink/?linkid=2068602](https://go.microsoft.com/fwlink/?linkid=2068602)**
 
